@@ -40,7 +40,4 @@ The IA-Ecosystem is an open space for collaboration! If you are interested in co
 
 **Let's build the future of AI together!**
 
-**Comments:**
 
-* The AI developer community link has been updated with the correct link.
-* Bot image has been added to the README.
